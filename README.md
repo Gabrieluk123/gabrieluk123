@@ -1,16 +1,34 @@
-## Hi there 👋
+# Gabriel Souza 🌟  
+### Growing and learning in the world of technology!  
 
-<!--
-**Gabrieluk123/gabrieluk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+👋 **Hello!**  
+My name is **Gabriel**, and I'm passionate about web development and databases.  
+I'm diving into the coding universe, building amazing projects while sharpening my skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies I'm Learning:  
+- **HTML**  
+  Structuring web content.  
+- **CSS**  
+  Bringing designs to life with style.  
+- **JavaScript**  
+  Adding interactivity and functionality.  
+- **MySQL**  
+  Managing and manipulating data with relational databases.  
+
+---
+
+## 🎯 My Goal:  
+To become a **full-stack developer** and build applications that positively impact people's lives.  
+
+---
+
+## 🌎 Connect With Me:  
+📸 **Instagram**: [@souzaalmeidag](https://instagram.com/souzaalmeidag)  
+
+---
+
+Feel free to explore my projects, share your feedback, or collaborate. Let’s build something great together! 💻✨  
