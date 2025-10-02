@@ -1,5 +1,3 @@
-## For all, into the Starfield 🚀💫🪐
-
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielSouzaAlmeida&&theme=tokyonight&show_icons=true&count_private=true" />
